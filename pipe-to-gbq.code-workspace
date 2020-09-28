@@ -4,5 +4,8 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"python.pythonPath": "C:\\Users\\Peiran Quan\\.virtualenvs\\gcp-realtime-pipeline-project-IpQeHluV\\Scripts\\python.exe",
+		"python.dataScience.jupyterServerURI": "local"
+	}
 }
