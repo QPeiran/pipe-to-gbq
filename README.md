@@ -38,3 +38,6 @@ Run "PowerBI_source_data":
 
 
 * Integrate **Cloud Funtion** to make the whole process fullly automatic ( **Cloud Funtion** in used pulling data from scanning system will directly push the data to the **Cloud Storage**, then fire the `on submit` trigger)
+
+
+# Beware conda no longer in use, pipenv "pipe-to-gbq" now need to be reset as the jupyter kernel

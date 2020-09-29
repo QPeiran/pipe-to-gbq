@@ -7,6 +7,9 @@ verify_ssl = true
 
 [packages]
 jupyter = "*"
+google-cloud-storage = "*"
+google-cloud-bigquery = "*"
+pandas = "*"
 
 [requires]
 python_version = "3.8"

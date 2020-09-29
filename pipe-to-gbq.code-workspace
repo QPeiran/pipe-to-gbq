@@ -5,7 +5,7 @@
 		}
 	],
 	"settings": {
-		"python.pythonPath": "C:\\Users\\Peiran Quan\\AppData\\Local\\Programs\\Python\\Python38\\python.exe",
+		"python.pythonPath": "C:\\Users\\Peiran Quan\\.virtualenvs\\PythonStatistics-iXc94wyw\\Scripts\\python.exe",
 		"python.dataScience.jupyterServerURI": "local"
 	}
 }
